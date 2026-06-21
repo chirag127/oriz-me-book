@@ -1,0 +1,10 @@
+{
+  "title": "Oriz Me",
+  "subtitle": "100-Year Strategy",
+  "author": "Chirag Singhal",
+  "language": "en",
+  "pricing": { "base": 9, "currency": "USD", "pwyw": true },
+  "channels": {"gumroad": true, "lemonsqueezy": true, "leanpub": true},
+  "manuscript": "./manuscript",
+  "outputs": { "epub": true, "pdf": true, "mobi": true, "markua": true }
+}
